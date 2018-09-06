@@ -139,6 +139,13 @@ Migrazione e reset dei contratti allo stato iniziale (+ starting deployment):
 $ truffle migrate -all --reset --network ganache
 ```
 
+Avvio di bunder e compilatore SASS (per sviluppo di front-end):
+
+```sh
+$ npm run css-watch
+```
+
+
 Avvio di un live server (con lite server):
 
 ```sh
