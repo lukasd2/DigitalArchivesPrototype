@@ -106,7 +106,9 @@ app.whitelist('0xB2a8488116454e36cB971360e45A6cEc65575483')
 
 In questo modo abbiamo aggiunto un utente (contrassegnato da address) con i permessi di artwork checker. Procediamo in maniera analoga per aggiungere altri utenti con permessi speciali. 
 
-- A partire da questa struttura possiamo implementare vari meccanismi, ad esempio un'opera per essere "validata" dovrebbe ottenere l'approvazione di almeno 1/3 di artwork checkers totali. 
+- A partire da questa struttura possiamo implementare vari meccanismi, ad esempio un'opera per essere "validata" dovrebbe ottenere l'approvazione di almeno 1/3 di artwork checkers totali.
+
+### Un altro modo per interagire con i contratti solidity è tramite il compilatore ufficiale, https://remix.ethereum.org dopo aver importato i contratti permette di interagire, di usare il debugger e varie altre funzionalità, utile per i test.
 
 
 Per quanto riguarda front-end, l’interfaccia verrà progettata dall’inizio. Alcune funzionalità che possono essere aggiunte: 
