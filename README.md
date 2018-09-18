@@ -14,10 +14,6 @@ Queste sono le tecnologie principali utilizzate (per dettagli sullo sviluppo ved
 
 ## Funzionamento e features
 
-## Nota:
-è possibile interagire con i contratti aggiornati qui: https://remix.ethereum.org/#version=soljson-v0.4.25+commit.59dbf8f1.js&optimize=true&gist=
-inserendo nel campo che appare in alto il seguente id gist: bb8d554a71e69c917599662b611969e9
-
 Le funzionalità implementate in questo momento sono:
 #### 1. Inserimento di opere d'arte minori sulla blockchain Ethereum:
 In realtà è possible inserire e registrare qualsiasi file che verrà poi mantenuto in modo permanente e immutabile dentro la blockchain.
